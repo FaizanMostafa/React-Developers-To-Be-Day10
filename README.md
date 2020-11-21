@@ -1,2 +1,5 @@
 # React-Developers-To-Be-Day10
-Created with CodeSandbox
+**Agenda: Redux/Global State Management**
+## List of topics covered
+* How to setup redux
+* Implemented addTodo action
